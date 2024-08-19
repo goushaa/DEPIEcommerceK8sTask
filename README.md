@@ -115,7 +115,4 @@ kubectl get ingress -n ecommerce
   ```bash
   minikube addons enable ingress
   ```
-- **Update your `/etc/hosts` file for local testing if using a custom domain.**
-
-
-   # DEPIEcommerceK8sTask
+- **Update your `/etc/hosts` file for local testing if using a custom domain.** (I mapped mine to kady.com)
